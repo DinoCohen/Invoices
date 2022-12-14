@@ -1,0 +1,16 @@
+C:\Users\DC250456\source\repos\Invoices\Invoices - DAL\bin\Debug\netcoreapp3.1\Invoices-DAL.deps.json
+C:\Users\DC250456\source\repos\Invoices\Invoices - DAL\bin\Debug\netcoreapp3.1\Invoices-DAL.runtimeconfig.json
+C:\Users\DC250456\source\repos\Invoices\Invoices - DAL\bin\Debug\netcoreapp3.1\Invoices-DAL.runtimeconfig.dev.json
+C:\Users\DC250456\source\repos\Invoices\Invoices - DAL\bin\Debug\netcoreapp3.1\Invoices-DAL.dll
+C:\Users\DC250456\source\repos\Invoices\Invoices - DAL\bin\Debug\netcoreapp3.1\Invoices-DAL.pdb
+C:\Users\DC250456\source\repos\Invoices\Invoices - DAL\bin\Debug\netcoreapp3.1\Invoices-Model.dll
+C:\Users\DC250456\source\repos\Invoices\Invoices - DAL\bin\Debug\netcoreapp3.1\Invoices-Model.pdb
+C:\Users\DC250456\source\repos\Invoices\Invoices - DAL\obj\Debug\netcoreapp3.1\Invoices-DAL.csproj.AssemblyReference.cache
+C:\Users\DC250456\source\repos\Invoices\Invoices - DAL\obj\Debug\netcoreapp3.1\Invoices-DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DC250456\source\repos\Invoices\Invoices - DAL\obj\Debug\netcoreapp3.1\Invoices-DAL.AssemblyInfoInputs.cache
+C:\Users\DC250456\source\repos\Invoices\Invoices - DAL\obj\Debug\netcoreapp3.1\Invoices-DAL.AssemblyInfo.cs
+C:\Users\DC250456\source\repos\Invoices\Invoices - DAL\obj\Debug\netcoreapp3.1\Invoices-DAL.csproj.CoreCompileInputs.cache
+C:\Users\DC250456\source\repos\Invoices\Invoices - DAL\obj\Debug\netcoreapp3.1\Invoices-DAL.csproj.CopyComplete
+C:\Users\DC250456\source\repos\Invoices\Invoices - DAL\obj\Debug\netcoreapp3.1\Invoices-DAL.dll
+C:\Users\DC250456\source\repos\Invoices\Invoices - DAL\obj\Debug\netcoreapp3.1\Invoices-DAL.pdb
+C:\Users\DC250456\source\repos\Invoices\Invoices - DAL\obj\Debug\netcoreapp3.1\Invoices-DAL.genruntimeconfig.cache

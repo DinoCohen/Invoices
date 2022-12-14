@@ -1,0 +1,10 @@
+C:\Users\DC250456\source\repos\Invoices\Invoices-Model\bin\Debug\netcoreapp3.1\Invoices-Model.deps.json
+C:\Users\DC250456\source\repos\Invoices\Invoices-Model\bin\Debug\netcoreapp3.1\Invoices-Model.dll
+C:\Users\DC250456\source\repos\Invoices\Invoices-Model\bin\Debug\netcoreapp3.1\Invoices-Model.pdb
+C:\Users\DC250456\source\repos\Invoices\Invoices-Model\obj\Debug\netcoreapp3.1\Invoices-Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DC250456\source\repos\Invoices\Invoices-Model\obj\Debug\netcoreapp3.1\Invoices-Model.AssemblyInfoInputs.cache
+C:\Users\DC250456\source\repos\Invoices\Invoices-Model\obj\Debug\netcoreapp3.1\Invoices-Model.AssemblyInfo.cs
+C:\Users\DC250456\source\repos\Invoices\Invoices-Model\obj\Debug\netcoreapp3.1\Invoices-Model.csproj.CoreCompileInputs.cache
+C:\Users\DC250456\source\repos\Invoices\Invoices-Model\obj\Debug\netcoreapp3.1\Invoices-Model.dll
+C:\Users\DC250456\source\repos\Invoices\Invoices-Model\obj\Debug\netcoreapp3.1\Invoices-Model.pdb
+C:\Users\DC250456\source\repos\Invoices\Invoices-Model\obj\Debug\netcoreapp3.1\Invoices-Model.csproj.AssemblyReference.cache

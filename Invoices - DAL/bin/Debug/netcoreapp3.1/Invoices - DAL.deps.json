@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Invoices - DAL/1.0.0": {
+        "dependencies": {
+          "Invoices-Model": "1.0.0"
+        },
+        "runtime": {
+          "Invoices - DAL.dll": {}
+        }
+      },
+      "Invoices-Model/1.0.0": {
+        "runtime": {
+          "Invoices-Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Invoices - DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Invoices-Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

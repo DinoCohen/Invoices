@@ -1,0 +1,13 @@
+C:\Users\DC250456\source\repos\Invoices\Invoices-BuisnessLogic\obj\Debug\netcoreapp3.1\Invoices-BuisnessLogic.csproj.AssemblyReference.cache
+C:\Users\DC250456\source\repos\Invoices\Invoices-BuisnessLogic\obj\Debug\netcoreapp3.1\Invoices-BuisnessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DC250456\source\repos\Invoices\Invoices-BuisnessLogic\obj\Debug\netcoreapp3.1\Invoices-BuisnessLogic.AssemblyInfoInputs.cache
+C:\Users\DC250456\source\repos\Invoices\Invoices-BuisnessLogic\obj\Debug\netcoreapp3.1\Invoices-BuisnessLogic.AssemblyInfo.cs
+C:\Users\DC250456\source\repos\Invoices\Invoices-BuisnessLogic\obj\Debug\netcoreapp3.1\Invoices-BuisnessLogic.csproj.CoreCompileInputs.cache
+C:\Users\DC250456\source\repos\Invoices\Invoices-BuisnessLogic\bin\Debug\netcoreapp3.1\Invoices-BuisnessLogic.deps.json
+C:\Users\DC250456\source\repos\Invoices\Invoices-BuisnessLogic\bin\Debug\netcoreapp3.1\Invoices-BuisnessLogic.dll
+C:\Users\DC250456\source\repos\Invoices\Invoices-BuisnessLogic\bin\Debug\netcoreapp3.1\Invoices-BuisnessLogic.pdb
+C:\Users\DC250456\source\repos\Invoices\Invoices-BuisnessLogic\bin\Debug\netcoreapp3.1\Invoices-Model.dll
+C:\Users\DC250456\source\repos\Invoices\Invoices-BuisnessLogic\bin\Debug\netcoreapp3.1\Invoices-Model.pdb
+C:\Users\DC250456\source\repos\Invoices\Invoices-BuisnessLogic\obj\Debug\netcoreapp3.1\Invoices-BuisnessLogic.csproj.CopyComplete
+C:\Users\DC250456\source\repos\Invoices\Invoices-BuisnessLogic\obj\Debug\netcoreapp3.1\Invoices-BuisnessLogic.dll
+C:\Users\DC250456\source\repos\Invoices\Invoices-BuisnessLogic\obj\Debug\netcoreapp3.1\Invoices-BuisnessLogic.pdb
